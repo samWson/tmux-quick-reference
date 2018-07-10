@@ -1,6 +1,15 @@
 # tmux Quick Reference
 A quick reference for tmux.
 
+## Prompt
+**Shortcut**|**Action**
+------------|----------
+Prefix + :  | open tmux prompt
+
+**Command** | **Action**
+------------|-----------
+`:source`   | load argument as the config file
+
 ## Panes
 **Shortcut**|**Action**
 ------------|----------
