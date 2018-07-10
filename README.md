@@ -1,5 +1,12 @@
-# tmux-quick-reference
-A quick reference for tmux
+# tmux Quick Reference
+A quick reference for tmux.
+
+## Panes
+**Shortcut**|**Action**
+------------|----------
+Prefix + %  | `split-window -h` split horizontally
+Prefix + "  | `split-window -v` split vertically
+Prefix + z  | `resize-pane -Z` zoom in on the current pane, repeat to zoom out
 
 ## Helpful links
 [tmux Home](https://github.com/tmux/tmux/wiki)
